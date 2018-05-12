@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '9519'
     url: http://www.gutenberg.org/2009/agents/9519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20772#Agriculture-for-BeginnersRevised-Edition
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2007-03-08'
 gutenberg_type: Text
