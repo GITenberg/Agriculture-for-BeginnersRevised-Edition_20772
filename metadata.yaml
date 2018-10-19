@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'S'
 - !lcsh 'Agriculture'
+- GITenberg
 title: 'Agriculture for Beginners
 
   Revised Edition'
